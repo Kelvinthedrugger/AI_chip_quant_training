@@ -1,4 +1,4 @@
-##AI chip quant training
+## AI chip quant training
 
 This repo also records the assignments from NCKU: 1102_Q362700 course
 
